@@ -19,8 +19,8 @@ from unknown patterns. The analysis end with a motivation for ongoing pulsar cla
 ## Table of Contents
 
 * [Installation](#installation)
-* [Project Report](#report)
-* [Project Source Code](#source-code)
+* [Project Report](#project-report)
+* [Project Code](#project-code)
 
 ## Installation
 
@@ -36,10 +36,13 @@ Required libraries (__R__):
 8. class
 9. mclust
 
-## Report
+## Project Report
 
-[Predicting Pulsars Report.pdf](https://github.com/NetworkGestalt/Predicting-Pulsars/files/10339398/Predicting.Pulsars.Report.pdf)
+[Predicting Pulsars Report PDF](https://github.com/NetworkGestalt/Predicting-Pulsars/files/10339398/Predicting.Pulsars.Report.pdf)
 
-## Source Code
+## Project Code
 
-[Predicting Pulsar Source.txt](https://github.com/NetworkGestalt/Predicting-Pulsars/files/10339408/Predicting.Pulsar.Source.txt)
+[Predicting Pulsars Text File](https://github.com/NetworkGestalt/Predicting-Pulsars/files/10339408/Predicting.Pulsar.Source.txt)
+ 
+[Predicting Pulsars RMD File](https://github.com/NetworkGestalt/Predicting-Pulsars/blob/main/Pulsar.Rmd)
+
