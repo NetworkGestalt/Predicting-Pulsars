@@ -43,7 +43,7 @@ Required libraries (__R__):
 
 ## Project Code
 
-[Predicting Pulsars Text File](https://github.com/NetworkGestalt/Predicting-Pulsars/files/10339408/Predicting.Pulsar.Source.txt)
+[Predicting Pulsars (Text File)](https://github.com/NetworkGestalt/Predicting-Pulsars/files/10339408/Predicting.Pulsar.Source.txt)
  
-[Predicting Pulsars RMD File](https://github.com/NetworkGestalt/Predicting-Pulsars/blob/main/Pulsar.Rmd)
+[Predicting Pulsars (RMD File)](https://github.com/NetworkGestalt/Predicting-Pulsars/blob/main/Pulsar.Rmd)
 
