@@ -4,6 +4,13 @@
 
 LSE Summer School 2022 - ME315: Machine Learning in Practice - Final Project __in R__.
 
+## Table of Contents
+
+* [Abstract](#abstract)
+* [Installation](#installation)
+* [Project Report](#project-report)
+* [Project Code](#project-code)
+
 ## Abstract
 
 The classification of pulsars comes with many challenges. Proper radio signal metrics
@@ -15,12 +22,6 @@ emphasizes a cost-sensitive approach, weighing sensitivity and specificity with 
 relative costs of false negatives and false positives. Finally, it combines the highestperforming clustering and classification models into two Cluster-then-Classify models for different cost contexts. Both combined models have higher accuracy than their
 stand-alone counterparts, due to synergies between features and cluster classes born
 from unknown patterns. The analysis end with a motivation for ongoing pulsar classification.
-
-## Table of Contents
-
-* [Installation](#installation)
-* [Project Report](#project-report)
-* [Project Code](#project-code)
 
 ## Installation
 
