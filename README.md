@@ -39,7 +39,7 @@ Required libraries (__R__):
 
 ## Project Report
 
-[Predicting Pulsars Report PDF](https://github.com/NetworkGestalt/Predicting-Pulsars/files/10339398/Predicting.Pulsars.Report.pdf)
+[Predicting Pulsars - Cost-Sensitive, Cluster-then-Classify.pdf](https://github.com/NetworkGestalt/Predicting-Pulsars/files/10347621/Predicting.Pulsars.-.Cost-Sensitive.Cluster-then-Classify.pdf)
 
 ## Project Code
 
