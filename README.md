@@ -19,7 +19,7 @@ discusses some of these challenges to contextualize supervised (binary classific
 and unsupervised (clustering) machine learning approaches to the Pulsar
 classification problem, as well as several metrics that can be used to evaluate them. It
 emphasizes a cost-sensitive approach, weighing sensitivity and specificity with the
-relative costs of false negatives and false positives. Finally, it combines the highestperforming clustering and classification models into two Cluster-then-Classify models for different cost contexts. Both combined models have higher accuracy than their
+relative costs of false negatives and false positives. Finally, it combines the highest performing clustering and classification models into two Cluster-then-Classify models for different cost contexts. Both combined models have higher accuracy than their
 stand-alone counterparts, due to synergies between features and cluster classes born
 from unknown patterns. The analysis end with a motivation for ongoing pulsar classification.
 
