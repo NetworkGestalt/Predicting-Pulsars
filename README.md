@@ -4,13 +4,6 @@
 
 Captsone project code and final report for the 2022 LSE Summer School course "ME315: Machine Learning in Practice".
 
-## Table of Contents
-
-* [Abstract](#abstract)
-* [Installation](#installation)
-* [Project Report](#project-report)
-* [Project Code](#project-code)
-
 ## Abstract
 
 The classification of pulsars comes with many challenges. Proper radio signal metrics
@@ -45,7 +38,6 @@ Required libraries (__R__):
 
 [Predicting Pulsars Code (RMD File)](https://github.com/NetworkGestalt/Predicting-Pulsars/blob/main/Pulsar.Rmd)
 
-[Predicting Pulsars Code (Text File)](https://github.com/NetworkGestalt/Predicting-Pulsars/files/10339408/Predicting.Pulsar.Source.txt)
  
 
 
