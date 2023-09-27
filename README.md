@@ -1,8 +1,8 @@
-# Predicting Pulsars with Machine Learning: A Cost-Sensitive, Clusterthen-Classify Approach (__R__)
+# Predicting Pulsars with Supervised and Unsupervised Learning: A Cost-Sensitive, Cluster-then-Classify Approach (__R__)
 
 ## Description
 
-LSE Summer School 2022 - ME315: Machine Learning in Practice - Final Project __in R__.
+Captsone project code and final report for the 2022 LSE Summer School course "ME315: Machine Learning in Practice".
 
 ## Table of Contents
 
@@ -43,7 +43,9 @@ Required libraries (__R__):
 
 ## Project Code
 
-[Predicting Pulsars (Text File)](https://github.com/NetworkGestalt/Predicting-Pulsars/files/10339408/Predicting.Pulsar.Source.txt)
+[Predicting Pulsars Code (RMD File)](https://github.com/NetworkGestalt/Predicting-Pulsars/blob/main/Pulsar.Rmd)
+
+[Predicting Pulsars Code (Text File)](https://github.com/NetworkGestalt/Predicting-Pulsars/files/10339408/Predicting.Pulsar.Source.txt)
  
-[Predicting Pulsars (RMD File)](https://github.com/NetworkGestalt/Predicting-Pulsars/blob/main/Pulsar.Rmd)
+
 
